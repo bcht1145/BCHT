@@ -60,7 +60,7 @@ def event(data: dict):  # 事件函数,FloraBot每收到一个事件都会调用
                     dataj = {
                         "group_id":int(gid),
                         "user_id":int(uid),
-                        "duration":300
+                        "duration":300 #禁言时间（单位：秒）
                     }
                     if qq_wjid(uid):
                         requests.post(url,json=data)
