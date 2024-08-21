@@ -1,0 +1,12 @@
+{
+    "PluginName": "main_消息处理",
+    "DependentLibraries": [
+        "requests"
+    ],
+    "IsLibraries": false,
+    "PluginIcon": null,
+    "PluginAuthor": "不出胡桃",
+    "MainPyName": "PluginTemplate",
+    "PluginDescription": "null",
+    "EnablePlugin": true
+}
