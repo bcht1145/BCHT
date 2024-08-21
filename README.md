@@ -1,4 +1,4 @@
-你好，这是我写的第5个插件，适用于FloraBot
+这是一个根据违禁词来撤回和禁言QQ消息的插件，使用于flora bot
 
 flora bot链接：https://github.com/AEBC08/FloraBot
 
